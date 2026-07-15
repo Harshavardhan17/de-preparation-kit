@@ -1,0 +1,4 @@
+# Only needed for Level 2+ (running the DAG in local Airflow).
+# data_generator.py is stdlib-only and needs nothing.
+apache-airflow>=2.9
+apache-airflow-providers-google>=10.0
